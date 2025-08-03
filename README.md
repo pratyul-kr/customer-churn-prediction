@@ -41,16 +41,14 @@ A machine learning project that predicts whether a customer is likely to leave a
 
 ---
 
-```markdown
 ## 📈 Model Performance
 
 | Model               | Accuracy | Precision | Recall | F1 Score |
-|:---------------------:|:----------:|:-----------:|:--------:|:----------:|
+|:-------------------:|:--------:|:-----------:|:--------:|:----------:|
 | Random Forest       | ✅        | ✅         | ✅      | ✅    |
 | Logistic Regression | ✅        | ✅         | ✅      | ✅    |
 
 ➡️ Thresholds are tunable to balance between Recall and Precision.
-```
 
 ---
 
